@@ -1,1 +1,1 @@
-# DIC-REACT
+Developed a Fitness Tracker Website using REACT JS
